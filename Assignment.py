@@ -24,25 +24,32 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# Welcome to My Page! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Cool projects")
 
     st.markdown(
         """
-        Streamlit is an open-source app framework built specifically for
-        Machine Learning and Data Science projects.
-        **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
-        ### Want to learn more?
-        - Check out [streamlit.io](https://streamlit.io)
-        - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
-          forums](https://discuss.streamlit.io)
-        ### See more complex demos
-        - Use a neural net to [analyze the Udacity Self-driving Car Image
-          Dataset](https://github.com/streamlit/demo-self-driving)
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+        This website is part of the TECHIN510 Lab Assignment. If you want to know more about me
+        **👈 Select a cool project from the sidebar** 
+        ### About
+        - Ghea Chrestella Suyono 
+        - Linkedin [Linkedin Profile](https://www.linkedin.com/in/suyonoghea/)
+
+        ### Education
+        - Grad (on going) in Ms Technology Innovation - University of Washington
+        - Undergrad in Banking and Finance - University of London
+
+        ### Work Experience
+        - Payment Experience Lead in Gojek Tokopedia
+        - Loan PM - SeaGroup, SeaBank
+        - PMO, COO Office - SeaGroup
+        - Corporate Relationship Manager - OCBC Bank
+        - Management Associate - OCBC Bank
+
+        ### Hobbies and Interests
+        
+        ### Interesting Project
     """
     )
 
