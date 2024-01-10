@@ -34,8 +34,12 @@ def run():
         **👈 Select a cool project from the sidebar** 
         ### About
         - Ghea Chrestella Suyono 
-        - Linkedin [Linkedin Profile](https://www.linkedin.com/in/suyonoghea/)
+        - Linkedin [Linkedin Profile](https://www.linkedin.com/in/suyonoghea/) """)
+    
+    st.image('/workspaces/lab1/picture.jpg', caption='Cheers!')
 
+    st.markdown(
+      """
         ### Education
         - Grad (on going) in Ms Technology Innovation - University of Washington
         - Undergrad in Banking and Finance - University of London
@@ -48,7 +52,9 @@ def run():
         - Management Associate - OCBC Bank
 
         ### Hobbies and Interests
-        
+        Crime Series! 
+        I definitely recommend you to listen to "RottenMango" by Stephanie Soo
+
         ### Interesting Project
     """
     )
