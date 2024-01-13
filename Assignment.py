@@ -27,15 +27,13 @@ def run():
         **👈 Select a cool project from the sidebar** 
         ### About
         - Ghea Chrestella Suyono 
-        - My live long dream is to retire early and open an animal shelter
+        - My lifelong dream is to retire early and open an animal shelter
         - Linkedin [Linkedin Profile](https://www.linkedin.com/in/suyonoghea/) """)
-
-    st.image('/workspaces/lab1/picture.jpg', caption='Cheers!')
 
     st.markdown(
       """
         ### Education
-        - Grad (on going) in Ms Technology Innovation - University of Washington
+        - Grad (ongoing) in Ms Technology Innovation - University of Washington
         - Undergrad in Banking and Finance - University of London
 
         ### Work Experience
@@ -46,12 +44,14 @@ def run():
         - Management Associate - OCBC Bank
 
         ### Hobbies and Interests
-        Crime Series! 
-        I definitely recommend you listening to "RottenMango" by Stephanie Soo
+        Crime Series! I highly recommend listening to 'RottenMango' by Stephanie Soo 
 
-        ### Interesting Project
-    """
-    )
+        ### Life At The Moment
+        """)
+    st.image('/workspaces/lab1/picture.jpg', caption="It's been 8 years and now I'm back to school")
+    st.image('/workspaces/lab1/picture2.jpg', caption='The only reason I can survive my quarters')
+    st.image('/workspaces/lab1/picture3.jpg', caption="Meet Jason! the highest rent-free household expense")
+    st.image('/workspaces/lab1/picture4.jpg', caption="With Jason's spare human")
 
 if __name__ == "__main__":
     run()
