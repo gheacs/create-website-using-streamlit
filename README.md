@@ -27,19 +27,19 @@ To run this Streamlit app in a Codespace, follow these steps:
 To run this Streamlit app in a Codespace, follow these steps:
 
 
-# 1. Clone this repository to your Codespace:
+### 1. Clone this repository to your Codespace:
 git clone https://github.com/gheacs/lab1.git
 
-# 2. Navigate to the project directory:
+### 2. Navigate to the project directory:
 cd lab1
 
-# 3. Activate your virtual environment (if not already activated):
+### 3. Activate your virtual environment (if not already activated):
 source .venv/bin/activate
 
-# 4. Install the required dependencies:
+### 4. Install the required dependencies:
 pip install -r requirements.txt
 
-# 5. Run the Streamlit app:
+### 5. Run the Streamlit app:
 streamlit run Assignment.py
 
-Enjoy exploring Ghea's Streamlit Page!
+*Enjoy exploring Ghea's Streamlit Page!*
