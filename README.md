@@ -40,6 +40,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ### 5. Run the Streamlit app:
-streamlit run Assignment.py
+streamlit run app.py
 
 *Enjoy exploring Ghea's Streamlit Page!*
