@@ -18,9 +18,6 @@ Ghea Chrestella Suyono is a graduate student at the University of Washington, pu
 
 You can find more about Ghea on her [LinkedIn Profile](https://www.linkedin.com/in/suyonoghea/).
 
-## Running the App
-
-To run this Streamlit app in a Codespace, follow these steps:
 
 ## Running the App
 
