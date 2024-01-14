@@ -8,7 +8,7 @@ def run():
 
     st.write("# Welcome to My Page! 👋")
     
-    # List of cool projects
+    # List of projects
     projects = [
         {"name": "Tidy-Teddy Cleaning Companion", "url": "https://sites.google.com/uw.edu/yourcleaningcompanion/homepage"},
         {"name": "Simple Wearable Device", "url": "https://github.com/gheacs/SimpleWearableDevice"},
