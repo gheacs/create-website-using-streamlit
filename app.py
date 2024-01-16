@@ -48,10 +48,10 @@ def run():
 
         ### Life At The Moment
         """)
-    st.image('/workspaces/lab1/picture.jpg', caption="It's been 8 years and now I'm back to school")
-    st.image('/workspaces/lab1/picture2.jpg', caption='The only reason I can survive my quarters')
-    st.image('/workspaces/lab1/picture3.jpg', caption="Meet Jason! the highest rent-free household expense")
-    st.image('/workspaces/lab1/picture4.jpg', caption="With Jason's spare human")
+    st.image('picture.jpg', caption="It's been 8 years and now I'm back to school")
+    st.image('picture2.jpg', caption='The only reason I can survive my quarters')
+    st.image('picture3.jpg', caption="Meet Jason! the highest rent-free household expense")
+    st.image('picture4.jpg', caption="With Jason's spare human")
 
 if __name__ == "__main__":
     run()
